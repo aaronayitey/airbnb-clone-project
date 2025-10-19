@@ -17,3 +17,5 @@ This project is tailored to enhance my expertise in modern software development 
 
 I am the backend developer in this project.
 
+## Technology Stack
+Django, PostgreSQL
