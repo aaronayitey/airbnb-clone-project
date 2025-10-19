@@ -19,3 +19,7 @@ I am the backend developer in this project.
 
 ## Technology Stack
 Django, PostgreSQL
+
+## Database Design
+Users, Properties, Bookings, Reviews, and Payments.
+
